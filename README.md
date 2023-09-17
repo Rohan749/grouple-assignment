@@ -15,7 +15,7 @@
 2. In your local PC, create a folder. Right click on the folder and open the terminal. Type: git clone <add-the-cloned-link>
 3. Go to OpenWeatherMap website and create your account. Click on your profile name > select My API Keys
 4. It may take some time for the key to get activated (may be 30minutes). Copy the API Key when activated.
-5. Paste it inside > .env file
+5. Paste it inside > src > services > services.js in the API_KEY.
 6. Go inside the cloned folder in your local PC through terminal. Type: npm install
 7. With all the neccessary dependencies installed, now you can run the app in your local pc. Type: npm start
 
