@@ -1,4 +1,4 @@
-# GROUPLE ASSIGNMENT APP (Weather app)
+# ASSIGNMENT APP (Weather app)
 
 
 ## Tools used:
